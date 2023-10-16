@@ -30,12 +30,12 @@ footer p {
     
 }
 body {
-    background: linear-gradient(63.73deg, #352728 51.04%, #8E5D52 50.04%);
+    background: linear-gradient(90.19deg, #000000 48.04%, #c89116 80.04%);
     
     
 }
 button {
-    background-color: #352728;
+    background: rgba(196, 196, 196, 0.11);
     color: #cedfdd;
     padding: 15px;
     font-size: 20px;
@@ -67,7 +67,8 @@ button:hover {
 }
 .location .head{
 
-    background-color: #000000;
+    background: rgba(196, 196, 196, 0.11);
+    
     padding: 40px 0px;
     width: 98%;
     display: grid;
@@ -105,7 +106,7 @@ button:hover {
     color: rgb(173, 105, 40);
 }
 .location .head .info span:last-child{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 .location .map{
     width: 100%;
